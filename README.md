@@ -9,7 +9,7 @@ This project was a collaberation between mysef and another student
 Link to video demo
 https://drive.google.com/file/d/16ZK31mSzWK8TsJp4SmsNh_zpA29mmwEY/view?usp=sharing
 The project was demonstrated using a GEN2BB function generator and a BB2SCOPE oscilloscope (referred to as "Fraga Board" in the video)
-They are interacted controlled and interacted with using a python script
+They are controlled and interacted with using a python script
 
 
 THE PROJECT
