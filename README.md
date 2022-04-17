@@ -1,5 +1,11 @@
 # ACmultimeter
 
+This project was a collaberation between mysef and another student
+
+-Peter van den Doel
+
+-Eric Lim
+
 Link to video demo
 https://drive.google.com/file/d/16ZK31mSzWK8TsJp4SmsNh_zpA29mmwEY/view?usp=sharing
 The project was demonstrated using a GEN2BB function generator and a BB2SCOPE oscilloscope (referred to as "Fraga Board" in the video)
